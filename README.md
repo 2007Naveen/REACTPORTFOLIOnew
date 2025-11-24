@@ -1,4 +1,4 @@
-# 💜 수아's Award-Winning Room Folio 💜
+NAVEENKUMAR R PORTFOLIO
 
 **[Live site](http://sooahs-room-folio.com/)**
 
@@ -38,3 +38,4 @@ npm run dev
 
 - [Awwwards](https://www.awwwards.com/sites/suas-room-folio)
 - [CSSDA](https://www.cssdesignawards.com/sites/sooahs-room-folio/47040/)
+
